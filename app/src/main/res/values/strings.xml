@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UTD TV</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="videoList">
+        <item>Video One</item>
+        <item>Video Two</item>
+        <item>Video Three</item>
+    </string-array>
+    <string-array name="descriptionList">
+        <item>Description One</item>
+        <item>Description Two</item>
+        <item>Description Three</item>
+    </string-array>
+    <string-array name="pictureList">
+        <item>@drawable/person</item>
+        <item>@drawable/person</item>
+        <item>@drawable/person</item>
+    </string-array>
+</resources>
